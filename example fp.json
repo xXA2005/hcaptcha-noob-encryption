@@ -1,0 +1,160 @@
+{
+  "proof_spec": {
+    "difficulty": 2,
+    "fingerprint_type": 0,
+    "_type": "w",
+    "data": "VDE52zXZeknBqyztM01OUpuQizOimBJLLhOf29a8610rZ5rpGqwHlXPWpa2isnw89SybMcTe2yooAvSLHkmb25z1bbTH9bPAzEpRDSYSlGfEp/0z5B0Q4Iko5mCHsqr6qGPu5byxMP/UlPjtmAAc5elHdl9foHPpQbqs3iGQr/fA36s1NB+N93LLNjzWLvTP0TtvtHzfglLPMBqZhJgDh35NApZwyJqMhEZcXX27gU3GFQyiYyIPk7LcjsUfGrEd",
+    "_location": "https://newassets.hcaptcha.com/c/f922a41",
+    "timeout_value": 1000.0
+  },
+  "rand": [0.7403228382757328, 0.6060283456463367],
+  "components": {
+    "navigator": {
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
+      "language": "en-US",
+      "languages": ["en-US", "en"],
+      "platform": "Win32",
+      "max_touch_points": 0,
+      "webdriver": false,
+      "notification_query_permission": null,
+      "plugins_undefined": false
+    },
+    "screen": {
+      "color_depth": 24,
+      "pixel_depth": 24,
+      "width": 1920,
+      "height": 1080,
+      "avail_width": 1920,
+      "avail_height": 1032
+    },
+    "device_pixel_ratio": 1.0,
+    "has_session_storage": true,
+    "has_local_storage": true,
+    "has_indexed_db": true,
+    "web_gl_hash": "-1",
+    "canvas_hash": "8666637898938386600",
+    "has_touch": false,
+    "notification_api_permission": "Default",
+    "chrome": false,
+    "to_string_length": 37,
+    "err_firefox": null,
+    "r_bot_score": 0,
+    "r_bot_score_suspicious_keys": [],
+    "r_bot_score_2": 0,
+    "audio_hash": "-1",
+    "extensions": [false],
+    "parent_win_hash": null,
+    "webrtc_hash": "-1",
+    "performance_hash": "4421725415906121346",
+    "unique_keys": null,
+    "inv_unique_keys": null,
+    "common_keys_hash": null,
+    "common_keys_tail": null,
+    "features": {
+      "performance_entries": true,
+      "web_audio": true,
+      "web_rtc": true,
+      "canvas_2d": true,
+      "fetch": true
+    }
+  },
+  "events": [
+    [3225703681, "12024430377777771569"],
+    [962453388, "[1,4,5,7,9,12,20,21,24,25,29]"],
+    [3838545372, "61"],
+    [1514173249, "3484425781942750140"],
+    [527778036, "1052299139603867461"],
+    [3569888996, "[10737418240,null,null,null,null,true,true,true,null]"],
+    [2882164405, "[2048,2,2048,16384,32,16384]"],
+    [2489756571, "10.5"],
+    [3837888977, "[2147483647,2147483647,2147483647,2147483647]"],
+    [1303365628, "861"],
+    [1022788021, "1716817408608"],
+    [1248513529, "154"],
+    [3978583396, "10965269773638258693"],
+    [
+      2132158760,
+      "[[[\"moz-extension://58b6fa34-5c7c-414f-810a-e0441257e0a9/assets/inject/solvedCallback.js\",0,1],[\"http://127.0.0.1:5500/hsw.js\",0,1]],[]]"
+    ],
+    [978353121, "true"],
+    [
+      3339831915,
+      "[\"Asia/Riyadh\",-180,-180,-3203680424000,\"Arabian Standard Time\",\"en-US\"]"
+    ],
+    [1893274106, "13177607191192652685"],
+    [200401693, "6902521653566176369"],
+    [4066678044, "12333476464156212184"],
+    [2758849376, "3412731804156181290"],
+    [1791986573, "5862931910130599052"],
+    [
+      2826985353,
+      "[\"5.0 (Windows)\",\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0\",null,16,\"en-US\",[\"en-US\",\"en\"],\"Win32\",\"Windows NT 10.0; Win64; x64\",[],null,null,2,5,true,false,null,false,false,false,false,false,false]"
+    ],
+    [254857823, "[24,24,65536,212988,200704]"],
+    [1287155446, "59"],
+    [1340581728, "102"],
+    [382530556, "[\"YQdM=EdM3Mzn0Edo\",\"4\",\"c\",\"CAUJODSAYSPUN\"]"],
+    [1607176087, "9798328471089765603"],
+    [
+      1004633796,
+      "[\"Mozilla\",\"ANGLE (NVIDIA, NVIDIA GeForce GTX 980 Direct3D11 vs_5_0 ps_5_0), or similar\"]"
+    ],
+    [312358085, "[2147483647,2147483647,4294967294]"],
+    [227790277, "[16380,120,12,120,16,4095,30,16,[23,127,127]]"],
+    [618795236, "\"Error: CSP\""],
+    [2444897354, "\"Asia/Riyadh\""],
+    [
+      1303333220,
+      "[[\"B==QWHxWD4HX\",\"c\",\"b\",\"YDBHFKHYYEADR\"],[\"LajMLcHdfvZXwajMLUkAZzGz1ntrxEDMYUSo4aDMYUCSvLFMYUCSmdEcZrmzwItJPdLSFpkqwItJO80vKvkSCnkMLajMLI0tI1kr0pmBQ1myZbjMLa3cwItJxr3X18FMpMkM\",\"1\",\"20\",\"YRAQLTNVOOZTB\"]]"
+    ],
+    [3124014409, "[4,120,4]"],
+    [2809130260, "[\"tJX5gZMLWB==GR45MZgJ\",\"5\",\"a\",\"SEBSEMTKLKGUU\"]"],
+    [
+      506452458,
+      "[[\"navigation:127.0.0.1:5500\",3,28],[\"script:127.0.0.1:5500\",18,90]]"
+    ],
+    [
+      938239901,
+      "[[],39,38,null,false,false,true,41,false,true,true,true,true,[\"sendMsgToSolverCS\",\"hsw\",\"balls\",\"WebAssembly\",\"CSS\",\"Intl\"],[],[],false]"
+    ],
+    [1827241937, "[4096,7,12,120,16,1024,[23,127,127]]"],
+    [
+      1204159645,
+      "[[204,[204,204,204,255,204,204,204,255,204,204,204,255,204,204,204,255]],[[11.1328125,0,-0.703125,95.6328125,15,4,96.80000305175781],[[11.84375,0,-1.296875,111.96354166666667,17,4,113.05000305175781],[11.1796875,0.0390625,-0.6484375,114.30364583333333,12,4,114.93333435058594],[11.1328125,0,-0.703125,95.6328125,15,4,96.80000305175781],[11.1328125,0,-0.703125,95.6328125,15,4,96.80000305175781],[11.1328125,0,-0.703125,95.6328125,15,4,96.80000305175781],[11.1328125,0,-0.703125,95.6328125,15,4,96.80000305175781],[11.1328125,0,-0.703125,95.6328125,15,4,96.80000305175781],[11.1328125,0,-0.703125,95.6328125,15,4,96.80000305175781],[11.453125,0,-1.0546875,109.10208333333333,14,3,110.18333435058594]]],[0,2,3,6,8,12,13,14,15,16,17,19,20,21,22,25,26,27,28,30,31,32,33,34,37,39,40,41,42,43,44,45,46,47,48,49,50,51,69,70,72,75,76,77,78,79,80,81,82],[0,0,0,0,14,3,0]]"
+    ],
+    [67516181, "[0,1,2,3,4]"],
+    [1481601550, "9279296605482755093"],
+    [925727266, "13901918202268278129"],
+    [
+      22109551,
+      "[[926614314456,1006614314463,1036614314454,746614314459,886614314455,1693228628904,56614314446,426614314366769,1883228628903,1016614314455,2839842943395,826614314453,1703228628917,1096614314463,1006614314454],false]"
+    ],
+    [
+      1739511171,
+      "[[false,\"en-US\",true,\"Microsoft David - English (United States)\",\"urn:moz-tts:sapi:Microsoft David - English (United States)?en-US\"],[false,\"en-US\",true,\"Microsoft Mark - English (United States)\",\"urn:moz-tts:sapi:Microsoft Mark - English (United States)?en-US\"],[false,\"en-US\",true,\"Microsoft Zira - English (United States)\",\"urn:moz-tts:sapi:Microsoft Zira - English (United States)?en-US\"]]"
+    ],
+    [1031696114, "[1,1024,1,1,4]"],
+    [
+      1960562775,
+      "\"TypeError: Window.getComputedStyle: Argument 1 is not an object.\""
+    ],
+    [
+      803029788,
+      "[1920,1080,1920,1032,24,24,false,0,1,1936,1048,true,true,true,true]"
+    ],
+    [553070510, "[8,8,8,32767,32767,16384]"],
+    [3869232296, "[16]"]
+  ],
+  "suspicious_events": [],
+  "messages": null,
+  "stack_data": null,
+  "stamp": "1:2:2024-05-27:VDE52zXZeknBqyztM01OUpuQizOimBJLLhOf29a8610rZ5rpGqwHlXPWpa2isnw89SybMcTe2yooAvSLHkmb25z1bbTH9bPAzEpRDSYSlGfEp/0z5B0Q4Iko5mCHsqr6qGPu5byxMP/UlPjtmAAc5elHdl9foHPpQbqs3iGQr/fA36s1NB+N93LLNjzWLvTP0TtvtHzfglLPMBqZhJgDh35NApZwyJqMhEZcXX27gU3GFQyiYyIPk7LcjsUfGrEd::C2o9bRCR:2",
+  "href": null,
+  "ardata": null,
+  "errs": { "list": [] },
+  "perf": [
+    [1, 10.0],
+    [2, 105.0],
+    [3, 0.0]
+  ]
+}
