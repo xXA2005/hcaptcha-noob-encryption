@@ -16,3 +16,5 @@ frr();
 if you want any newer update for only 20$ dm me on discord @elzbiderman
 
 https://ab5.pro
+
+tanks for [VirusNoir](https://github.com/VirusNoirrr) for licking my balls while coding
